@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chalk Redux.](https://docs.google.com/presentation/d/1jIMSVICEII3mY4JbA5QQoleqw-Y9ptBA/edit?usp=drive_link&ouid=106661203170999807612&rtpof=true&sd=true)
 
-- 🌱 I’m currently learning **Python programming, Data Structures and Algorithm**
+- 🌱 I’m currently learning **Python programming, Data Structures and Algorithm.**
 
 - I had completed a project titled [Automated public lighting.](https://docs.google.com/presentation/d/1n1Nh4jPfakl83vvqXvIcNq3y_6UG8hRx/edit?usp=drive_link&ouid=106661203170999807612&rtpof=true&sd=true)
 
